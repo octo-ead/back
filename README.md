@@ -1,28 +1,22 @@
-# Adonis API application
+# Octo-Ead
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+A Octo-Ead é um projeto **open source** de uma plataforma de ensino a distância 100% gratuita e com cursos de qualidade.
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+## Contribuição
 
-## Setup
+Contribuir é uma excelente forma de aprender ainda mais! Além de melhorar a plataforma, a sua contribuição ajudará a manter a comunidade open source ativa e dedicada. Agradecemos todas as contribuições!
 
-Use the adonis command to install the blueprint
+1- Faça um *Fork* no projeto\
+2- Crie um *Branch* para sua *Feature*\
+3- Adicione suas mudanças\
+4- Comite suas mudanças\
+5- Faça o *Push* da *Branch*\
+6- Abra um *Pull Request*
 
-```bash
-adonis new yardstick --api-only
-```
+## Contato
 
-or manually clone the repo and then run `npm install`.
+Rafael: [Github](https://github.com/rafaelmenon)
 
+E-mail: rafael13rodrigo@gmail.com
 
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+Slack: Entre no canal do [Slack](plataformaead-2mq8327.slack.com) e participe da nossa comunidade!
