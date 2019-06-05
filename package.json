@@ -12,9 +12,9 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
-  "license": "UNLICENSED",
-  "private": true,
+  "author": "OCTO-EAD",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@adonisjs/ace": "^5.0.8",
     "@adonisjs/auth": "^3.0.7",
@@ -28,5 +28,6 @@
   "devDependencies": {},
   "autoload": {
     "App": "./app"
-  }
+  },
+  "repository": "https://github.com/octo-ead/back"
 }
