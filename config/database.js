@@ -25,7 +25,7 @@ module.exports = {
       host: Env.get('DB_HOST', 'localhost'),
       port: Env.get('DB_PORT', 27017),
       username: Env.get('DB_USER', 'admin'),
-      password: Env.get('DB_PASSWORD', ''),
+      password: Env.get('DB_PASSWORD', 'admin'),
       database: Env.get('DB_DATABASE', 'octo-ead'),
       options: {
         // replicaSet: Env.get('DB_REPLICA_SET', '')
